@@ -1,0 +1,75 @@
+﻿ <!DOCTYPE html>
+  <html lang="pl-PL">
+  <html>
+        <head>
+                <meta charset="utf-8">
+                    <title>Konrad   </title>
+  </head>
+   <body>
+    Dzioba <br>
+    <p align="left"> <font color="blue" size="7" face="Arial"> Konrad </font> </p> <br><br>
+<p align="left"> <font color="blue" size="6" face="Arial"> Konrad </font> </p> <br><br>
+<p align="left"> <font color="blue" size="5" face="Arial"> Konrad </font> </p> <br><br>
+<p align="left"> <font color="blue" size="4" face="Arial"> Konrad </font> </p> <br><br>
+<p align="left"> <font color="blue" size="3" face="Arial"> Konrad </font> </p> <br><br>
+<p align="left"> <font color="blue" size="3" face="Arial"> Konrad </font> </p> <br><br>
+<p align="left"> <font color="blue" size="3" face="'Courier New"> Konrad </font> </p> <br><br>
+<p align="left"> <font color="red" size="3" face="Arial"> adres:Gdansk Szczecinska 4/2 80-392  </p></font><br><br>
+<strong><p align="left"> <font color="pink" size="8" face="Arial">ulubiony aktor: Jonh Grzechy </p></font><br><br></strong>
+<em><p align="left"> <font color="blue" size="3" face="Verdana">ulubiony zespol: Bedzie Dobrze </p></font><br><br></em>
+<p align="left"> <font color="blue" size="3" face="Arial"> data utodzenia:13 maj 2077 </p></font><br><br>
+<p align="right"> <font color="orange" size="2" face="Arial"> H2O </font> </p> <br>
+<p align="right"> <font color="orange" size="2" face="Arial"> x*x=x2 </font> </p> <br>
+<FIELDSET> <LEGEND> o polityce </LEGEND> nasz rząd jest przyzwoity i nie kradnie tyle co PO
+  
+       <IMG SRC="andrzej-duda.gif" ALIGN=right BORDER=23 WIDTH=110 HEIGHT=109 ALT=„Konrad Dzioba”>
+         <IMG SRC="andrzej-duda.gif" ALIGN=left BORDER=20 WIDTH=110 HEIGHT=109 ALT=„Konrad Dzioba”>
+       <br>
+     <br>
+     </FIELDSET>
+     <HR SIZE="5" WIDTH=95% ALIGN=center COLOR=pink>
+     <FIELDSET> <LEGEND> O związkach </LEGEND> żona mówi do męża:
+       <IMG SRC="khaby-really.gif" ALIGN=right BORDER=23 WIDTH=110 HEIGHT=109 ALT=„Konrad Dzioba”>
+         <IMG SRC="khaby-really.gif" ALIGN=left BORDER=20 WIDTH=110 HEIGHT=109 ALT=„Konrad Dzioba”>
+      mam dobrą i złą wiadomość.<br>
+      -to słucham<br>
+      -odchodzę od ciebie<br>
+       - a ta zła?<br>
+</FIELDSET>
+       <HR SIZE="7" WIDTH=50% ALIGN=center COLOR=orange>
+       <FIELDSET> <LEGEND>najbardziej (nie) przyzwoity żart</LEGEND>
+         <IMG SRC="troll-face-creepy-smile.gif" ALIGN=right BORDER=23 WIDTH=109 HEIGHT=109 ALT=„Konrad Dzioba”>
+           <IMG SRC="troll-face-creepy-smile.gif" ALIGN=left BORDER=20 WIDTH=109 HEIGHT=109 ALT=„Konrad Dzioba”>
+         Mama mówi do syna: <br>
+         -przestań mówić ciągle żarty o samobójstwie
+     <br>
+         -spokojnie, wkrótce przestanę
+         
+</FIELDSET>
+         <HR SIZE="10" WIDTH=70% ALIGN=center COLOR=blue>
+<p align="left"> <font color="red" size="3" face="Arial"> Imię----Nazwisko </p></font><br>
+<p align="left"> <font color="blue" size="3" face="Arial"> Konrad Dzioba </p></font><br>
+<br><br><br>
+<h3> poniżej będą trzy poziomy numerowania/wyliczenia z różnymi rodzajami numerowania/wyliczenia</h3>
+<h3> Ty zaproponuj swoje, związane z informatyką</h3>
+       <p align="center"> <font color="black" size="4" face="Arial"> najpopularniejsze karty graficzne </font> </p> <br>
+       <UL TYPE=circle>
+         <LI> RTX z serii 20xx
+       <OL TYPE=A START=A>
+<LI> RTX 2060 Ti
+<LI> RTX 2060
+<LI> RTX 2070
+<LI> RTX 2080Ti </OL><br><br>
+  </UL>
+<UL TYPE=circle>
+<LI> RTX z serii 30xx
+  <OL TYPE=1 START=1>
+<LI> RTX 3070 TI
+<LI> RTX 3060
+<LI> RTX 3080 </UL>
+  <UL TYPE=I START=I>
+<LI> GTX 
+  <OL TYPE=1 START=1>
+  <LI> GTX 1050TI
+    <LI> GTX 1650 super
+      <LI>GTX 1660TI </UL>
